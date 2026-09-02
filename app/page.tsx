@@ -1,6 +1,5 @@
 import React, { useState, useRef, useEffect } from "react";
-import logo from "container:///mnt/data/src/assets/30b596b1625f9272-pacefetch_logo_transparent.png";
-
+const logo = "/pacefetch-logo.png"
 // ============================================
 // PACEFETCH - ADSTERRA + GA4 SETUP
 // 1. Replace GA4_ID below with your G-XXXXXXXXXX from analytics.google.com
